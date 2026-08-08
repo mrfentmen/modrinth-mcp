@@ -1,13 +1,13 @@
-# modrinth-mcp
+# modrinth mcp
 
-Search [Modrinth](https://modrinth.com) — the modern Minecraft mod host —
-with full loader / game-version filtering. No key.
+Search [Modrinth](https://modrinth.com), the modern Minecraft mod host,
+with full loader / game version filtering. No key.
 
 ## Tools
 
-- `search_mods` — query + filters: loader (fabric/forge/neoforge/quilt), MC version
-- `get_mod` — description, loaders, supported versions, downloads/follows
-- `get_mod_versions` — versions with download links + required dependencies
+- `search_mods`, query + filters: loader (fabric/forge/neoforge/quilt), MC version
+- `get_mod`, description, loaders, supported versions, downloads/follows
+- `get_mod_versions`, versions with download links + required dependencies
 
 ## Run
 
